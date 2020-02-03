@@ -86,3 +86,38 @@ S=1 anti s
 |Dèbil | 10⁻¹⁸m   |10²⁴ |W⁺,W⁻,Zº |quarks /leptons|
 |Electromagnética | inf |10³⁵ |fotons |partícula a>q≠0|
 |Forta |10⁻¹⁵ |10³⁷ |gluons |quarks|
+
+# Fenomes quantics
+
+## Catastrofe ultravioleta
+
+https://www.youtube.com/watch?v=8YL_QIGtdOc
+
+## Espectre abs i em
+
+Estudi Atom H
+
+Ryber ->
+$$\frac{1}{\lambda}=R_h(\frac{1}{m²}-\frac{1}{n²})$$
+Si m=2 y n=
+
+- 1 Lyman
+- 2 Bahies
+- 3 Pershen
+- 4
+- 5
+
+# Model Bohr
+
+1. e⁻orbiten en orbites estacionaries
+2. $$\Delta E=nh$$
+3. $$L=n\hbar=n\frac{h}{2}\pi$$
+
+1. $$\frac{kQq}{r²}=m\frac{v²}{r}\rArr v²=\frac{kQq}{r}$$
+2. $$E=\frac{1}{2}mv²-\frac{kQq}{r}=-\frac{1}{2}\frac{kQq}{r}$$
+3. $$\overrightarrow{L}=\overrightarrow{r}mv=\frac{nh}{2\pi}\rArr v²=\frac{n²h²}{4\pi²m²r²}$$
+
+$$E=-\frac{(kQq)²2\pi²m}{h²}\frac{1}{n²}$$
+______________________
+$$E=\frac{-13.6}{n²}eV$$
+______________________
