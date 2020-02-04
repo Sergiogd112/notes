@@ -121,3 +121,7 @@ $$E=-\frac{(kQq)²2\pi²m}{h²}\frac{1}{n²}$$
 ______________________
 $$E=\frac{-13.6}{n²}eV$$
 ______________________
+
+# Efecte fotoelectric
+
+$$h\nu=W_{ext}+\frac{1}{2}mv²$$

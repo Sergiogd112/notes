@@ -18,6 +18,7 @@ Type: Apuntes
 ## Satre
 
 * existencialista
+* el infierno es el otro
   
 ## Kierkegaard
 
